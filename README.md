@@ -7,6 +7,9 @@ I am a creative problem-solver and have a strong attention to detail. I am also 
 
 ![profile-views](https://komarev.com/ghpvc/?username=danielpopek94&label=Profile%20views&color=0e75b6&style=flat)
 
+[![code-wars](https://www.codewars.com/users/danielpopek94/badges/large)](https://www.codewars.com/users/danielpopek94)
+
+
 
 ### 🛠️ My stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
