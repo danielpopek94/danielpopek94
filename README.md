@@ -8,7 +8,7 @@ I am a creative problem-solver and have a strong attention to detail. I am also 
 ![profile-views](https://komarev.com/ghpvc/?username=danielpopek94&label=Profile%20views&color=0e75b6&style=flat)
 
 
-### My stack
+### 🛠️ My stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
@@ -43,7 +43,7 @@ I am a creative problem-solver and have a strong attention to detail. I am also 
 ### See more details at: [website](http://danielpopek.pl)
 
 
-### My projects:
+### 💻 My projects:
 
 | [Kickstarter](https://github.com/danielpopek94/Kickstarter) | [Bose](https://github.com/danielpopek94/layout_miami) |
 | ----------- | ----------- |
