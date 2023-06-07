@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&duration=3000&color=1AC343&background=FFFFFF00&multiline=true&width=435&height=60&lines=Daniel+Popek;Frontend+developer)](https://git.io/typing-svg)
 <!--
 **danielpopek94/danielpopek94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
