@@ -48,6 +48,6 @@ I am a creative problem-solver and have a strong attention to detail. I am also 
 
 ### 💻 My projects:
 
-| [Crazybaby](https://github.com/danielpopek94/Crazybaby_landing) | [Bose](https://github.com/danielpopek94/layout_miami) |
+| [Crazybaby](https://github.com/danielpopek94/Crazybaby_landing) | [Bose](https://github.com/danielpopek94/Bose_landing) |
 | ----------- | ----------- |
-| [![Crazybaby](https://github.com/danielpopek94/Crazybaby_landing/raw/main/src/images/kickstarter-preview.png)](https://github.com/danielpopek94/Crazybaby_landing) | [![bose](https://github.com/danielpopek94/layout_miami/raw/master/src/images/bose-preview.png)](https://github.com/danielpopek94/layout_miami) |
+| [![Crazybaby](https://github.com/danielpopek94/Crazybaby_landing/raw/main/src/images/kickstarter-preview.png)](https://github.com/danielpopek94/Crazybaby_landing) | [![bose](https://github.com/danielpopek94/Bose_landing/raw/main/src/images/bose-preview.png)](https://github.com/danielpopek94/Bose_landing) |
