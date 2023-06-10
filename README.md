@@ -42,6 +42,9 @@ I am a creative problem-solver and have a strong attention to detail. I am also 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![D3js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![MongoDB](https://img.shields.io/static/v1?style=flat-square&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=flat-square&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/static/v1?style=flat-square&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 
 ### See more details at: [website](http://danielpopek.pl)
 
