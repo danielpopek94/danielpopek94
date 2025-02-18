@@ -50,10 +50,3 @@ I am a creative problem-solver and have a strong attention to detail. I am also 
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=flat-square&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-
-
-### 💻 My projects:
-
-| [Crazybaby](https://github.com/danielpopek94/Crazybaby_landing) | [Bose](https://github.com/danielpopek94/Bose_landing) |
-| ----------- | ----------- |
-| [![Crazybaby](https://github.com/danielpopek94/Crazybaby_landing/raw/main/src/images/kickstarter-preview.png)](https://github.com/danielpopek94/Crazybaby_landing) | [![bose](https://github.com/danielpopek94/Bose_landing/raw/main/src/images/bose-preview.png)](https://github.com/danielpopek94/Bose_landing) |
