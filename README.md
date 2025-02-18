@@ -51,8 +51,6 @@ I am a creative problem-solver and have a strong attention to detail. I am also 
 ![Express](https://img.shields.io/static/v1?style=flat-square&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 
-### See more details at: [my website](http://danielpopek.pl)
-
 
 ### 💻 My projects:
 
